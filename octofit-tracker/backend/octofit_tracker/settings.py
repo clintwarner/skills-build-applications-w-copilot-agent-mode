@@ -27,7 +27,7 @@ DEBUG = True
 
 
 # Allow all hosts
-ALLOWED_HOSTS = ['*']
+ALLOWED_HOSTS = ['*', 'localhost', '127.0.0.1', 'redesigned-telegram-9457pqj5r56f9p54-8000.app.github.dev']
 
 
 # Application definition
